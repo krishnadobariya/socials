@@ -1,0 +1,10 @@
+export const REGISTER_REQUEST = "REGISTER_REQUEST";
+export const USER_REGISTER = "USER_REGISTER";
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const USER_LOGIN = "USER_LOGIN";
+export const CREATE_POST = "CREATE_POST";
+export const GET_POSTS = "GET_POSTS";
+export const POST_LIKE = "POST_LIKE";
+export const POST_DISLIKE = "POST_DISLIKE";
+export const FOLLOW_USER = "FOLLOW_USER";
+export const FOLLOWING_USER = "FOLLOWING_USER";
